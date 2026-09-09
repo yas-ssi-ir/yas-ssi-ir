@@ -28,7 +28,6 @@
 
 ### ⚡ À Propos & Ce Que Je Fais
 
-- 🎓 **Formation d'Excellence** : Master 2 en Management & Gouvernance des SI à l'**ENSA Oujda** (Ex-CPGE PCSI Moulay Youssef Rabat).
 - 🏗️ **Architectures Microservices & Backend** : Conception de services découplés, haute disponibilité et scalables avec **Java (Spring Boot)** et **FastAPI**.
 - 🤖 **Intelligence Artificielle & RAG Agentique** : Conception d'agents autonomes, architectures RAG intelligentes, Deep Learning (CNNs, Vision par Ordinateur) et modèles prédictifs (XGBoost).
 - ☁️ **Cloud, DevOps & Event Streaming** : Conteneurisation **Docker**, orchestration **Kubernetes**, pipelines temps réel **Apache Kafka**, et cloud **AWS / OCI**.
